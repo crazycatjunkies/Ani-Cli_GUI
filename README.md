@@ -6,6 +6,9 @@ A python script to make ani-cli work as a gui (only tested on linux)
 - `source Ani-Gui/bin/activate`
 - `pip install customtkinter Pillow requests`
 
+# Dependencies
+- `https://github.com/pystardust/ani-cli`
+
 # Info/Testing
 Tested this on PopOs 22.04
 Loading alot of shows takes a couple mins possibly ratelimit for getting thumbnails is set to 0.5seconds to not trigger too many requests
