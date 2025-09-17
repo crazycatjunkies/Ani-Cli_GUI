@@ -1,4 +1,4 @@
-# Ani-Cli_GUI
+# Ani-Cli_GUI ( MADE WITH CHATGPT/GEMINI)
 A python script to make ani-cli work as a gui (only tested on linux)
 
 # To Run/Setup (Ubuntu/Debian Linux)
