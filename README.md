@@ -1,7 +1,7 @@
 # Ani-Cli_GUI
 A python script to make ani-cli work as a gui (only tested on linux)
 
-# To Run/Setup (Linux)
+# To Run/Setup (Ubuntu/Debian Linux)
 - `python -m venv Ani-Gui`
 - `source Ani-Gui/bin/activate`
 - `pip install customtkinter Pillow requests`
