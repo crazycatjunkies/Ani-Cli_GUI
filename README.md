@@ -2,9 +2,9 @@
 A python script to make ani-cli work as a gui (only tested on linux)
 
 # To Run/Setup (Linux)
-python -m venv Ani-Gui
-source Ani-Gui/bin/activate
-pip install customtkinter Pillow requests
+- `python -m venv Ani-Gui`
+- `source Ani-Gui/bin/activate`
+- `pip install customtkinter Pillow requests`
 
 # Info/Testing
 Tested this on PopOs 22.04
